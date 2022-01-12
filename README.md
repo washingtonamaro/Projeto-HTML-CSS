@@ -1,2 +1,2 @@
 # Projeto HTML-CSS
- Sites criando nessas tecnologias
+ Sites criados nessas tecnologias
